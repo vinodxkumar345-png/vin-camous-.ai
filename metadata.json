@@ -1,0 +1,6 @@
+{
+  "name": "CampusAI — Your Personal College Copilot",
+  "description": "All-in-one AI assistant for college students to study, manage assignments, prepare for exams, learn coding, and plan careers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
